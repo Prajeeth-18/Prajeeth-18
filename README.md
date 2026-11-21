@@ -12,7 +12,7 @@
 ### Building • Learning • Creating
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;AI+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Oen+Source+Contributor;AI+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
 </p>
 </div>
 
@@ -95,13 +95,6 @@
 </p>
 --- -->
 
-## 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajeeth-18&theme=tokyo-night&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
@@ -111,13 +104,7 @@
 </p>
 ---
 
-## 🐍 Snake Contribution Graph
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Prajeeth-18/Prajeeth-18/output/github-contribution-grid-snake.gif" alt="Snake Contribution Graph" width="100%"/>
-
-</p>
 
 ---
 
