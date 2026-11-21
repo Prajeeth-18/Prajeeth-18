@@ -121,7 +121,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Prajeeth-18&style=for-the-badge&color=0e75b6" />
 
-<img src="https://api.iconify.design/lucide:mouse-pointer-2.svg" width="14" alt="cursor" />
+<!-- <img src="https://api.iconify.design/lucide:mouse-pointer-2.svg" width="14" alt="cursor" /> -->
 
 ⭐ If you like my work, consider starring my repositories.
 
